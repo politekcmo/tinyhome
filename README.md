@@ -29,7 +29,7 @@ This repo is to catalog my experiences in applying the Raspbery Pi 4 to my home 
 ## In the future I hope to:
 * Add more lighting controls and automation based on movement/presence
 * Integrate CEC HDMI Control device on Raspberry Pi Zero to automate programs for media
-
+* Use BalenaCloud to manage deployment of my devices
 
 ## Hardware and Build Wishlist
 * Inobtrusive "status lights" for security, weather, etc (In Progress)
