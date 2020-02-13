@@ -43,6 +43,10 @@ This repo is to catalog my experiences in applying the Raspbery Pi 4 to my home 
     * Cisco SG300-20 Managed PoE Switch
     * Various switches throughout the home
   * Home Control Infrastructure
+    * CircuitSetup Split Phase Energy Monitor - [My Fork of CircuitSetup's firmware](https://github.com/politekcmo/Split-Single-Phase-Energy-Meter) to accomodate a delay in MQTT publishes and save logging filesize [CircuitSetup HW](https://circuitsetup.us/) 
+    
+    ![circuitsetup](https://i.imgur.com/wkeEZkSm.jpg)
+    
     * Lutron Caseta Pro Hub
     * Zigbee USB Dev stick by TI [How to flash an inexpensive -$10- CC2531 dev device](https://www.zigbee2mqtt.io/getting_started/flashing_the_cc2531.html)
     * Broadlink RM PRo - 433mhz / RF / Infrared transmitter & receiver.  Works great with cheapo 433mhz plugs (which I have currently phased out), my rf-controlled projector screen, and IR home theater components alike.
@@ -52,7 +56,7 @@ This repo is to catalog my experiences in applying the Raspbery Pi 4 to my home 
     * WLED : Status/Accent lighting [super-versatile addressable LED controller](https://github.com/Aircoookie/WLED/wiki)
     * H801 : Kitchen LED cabinet lighting.  A fantastic (and inexpensive) 5-channel LED Driver integrated from [ESPHome Cookbook](https://esphome.io/cookbook/h801.html) 
     
-    ![h801 pic by tinkerman](https://i.imgur.com/nxiXi7Sl.jpg)
+    ![h801 pic by tinkerman](https://i.imgur.com/nxiXi7Sm.jpg)
     * Lutron Caseta
     * Lutron IR Wireless Dimmer
     * esp8266 Plugs running Tasmota
